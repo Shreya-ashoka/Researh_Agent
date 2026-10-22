@@ -1,0 +1,8 @@
+.env
+venv/
+__pycache__/
+*.py[cod]
+report_*.md
+research_checkpoints.sqlite
+research_checkpoints.sqlite-shm
+research_checkpoints.sqlite-wal
